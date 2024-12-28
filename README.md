@@ -52,14 +52,6 @@ The MNIST dataset is loaded using a custom data loader (`MnistDataloader`), whic
 - `update_parameters`: Updates model parameters based on gradients.
 - `gradient_descent`: Iteratively optimizes the model using the above functions.
 
-
-## Getting Started
-
-1. Clone this repository.
-2. Ensure the MNIST dataset is available in the specified directory structure.
-3. Install the required Python libraries (`numpy` and `matplotlib`).
-4. Run the provided code to load the dataset, train the model, and evaluate its performance.
-
 ## How to Use
 
 ### Dependencies
